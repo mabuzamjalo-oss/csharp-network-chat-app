@@ -5,6 +5,25 @@ A multi-client chat system built with C#, .NET, and TCP sockets. A console
 on the same network, and coordinates broadcast chat, private messages,
 file sharing, and message history between them over a JSON-based protocol.
 
+## Screenshots
+
+### Client connect screen
+![Client connect screen](screenshots/client-connect-screen.png)
+
+### Group chat with online users list
+![Two clients chatting](screenshots/two-clients-chatting.png)
+
+### Server console
+![Server console](screenshots/server-console.png)
+
+### Server console with connected clients
+![Server console connected](screenshots/server-console-connected.png)
+
+### Typing indicator
+![Typing indicator](screenshots/typing-indicator.png)
+
+### File sharing
+![File sharing](screenshots/file-sharing.png)
 ## Project structure
 
 ```
